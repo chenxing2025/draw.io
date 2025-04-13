@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/2.4.5.292" version="26.2.12">
   <diagram name="第 1 页" id="nh4Uyl0Avg9ipFoml5TO">
-    <mxGraphModel>
+    <mxGraphModel dx="2110" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-1" target="-QAcbjDjqCjkquGz_yvZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-1" value="不同设备上的进程如何通信？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-2" target="-QAcbjDjqCjkquGz_yvZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-2" value="协商出了一套通用的网络协议：TCP/IP网络模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="160" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-4" target="-QAcbjDjqCjkquGz_yvZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-4" target="-QAcbjDjqCjkquGz_yvZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-4" value="应用层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-6" target="-QAcbjDjqCjkquGz_yvZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-6" target="-QAcbjDjqCjkquGz_yvZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-6" value="传输层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-8" target="-QAcbjDjqCjkquGz_yvZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-8" target="-QAcbjDjqCjkquGz_yvZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-8" value="网络层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-10" target="-QAcbjDjqCjkquGz_yvZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-10" value="数据链路层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-17" value="为用户提供应用功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-21" value="为应用层（进程）提供逻辑通信服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-24" value="负责将数据从一个设备传输到另一个设备" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QAcbjDjqCjkquGz_yvZ-26" target="-QAcbjDjqCjkquGz_yvZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-26" value="为网络层提供「链路级别」传输的服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-28" value="负责在以太网、WiFi 这样的底层网络上发送原始数据包" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QAcbjDjqCjkquGz_yvZ-30" value="什么是链路级服务？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="700" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
