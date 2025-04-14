@@ -1,9 +1,177 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/2.5.0.298" version="26.2.12">
   <diagram name="第 1 页" id="PD0CW1hQ4kMC2PGEF3Kf">
-    <mxGraphModel>
+    <mxGraphModel dx="1283" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-1" target="_9MsPmf_h50mBfinWw6Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-1" target="_9MsPmf_h50mBfinWw6Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-1" value="键入网址到网页显示发生了什么？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-2" value="客服端发生请求，&lt;div&gt;服务端响应回复&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-4" value="本质" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-5" target="_9MsPmf_h50mBfinWw6Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-5" target="_9MsPmf_h50mBfinWw6Y-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-5" value="浏览器解析URL" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-7" target="_9MsPmf_h50mBfinWw6Y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-7" value="得到&lt;div&gt;Web服务器和文件名&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-9" target="_9MsPmf_h50mBfinWw6Y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-9" value="生成http请求数据包" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-11" target="_9MsPmf_h50mBfinWw6Y-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-11" target="_9MsPmf_h50mBfinWw6Y-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-11" value="查询服务器域名对应的 IP 地址" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-17" value="URL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="165" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-18" value="协议名" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-17">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-19" value="域名" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-17">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-20" value="文件目录" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-17">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-26" target="_9MsPmf_h50mBfinWw6Y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-26" value="本地缓存" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-27" value="浏览器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-26">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-28" value="操作系统" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-26">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-29" value="hosts文件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-26">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-33" value="询问DNS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="585" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-34" value="本地" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-33">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-35" value="根" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-33">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-36" value="顶级域名" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-33">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-38" value="权威" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-33">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-39" target="_9MsPmf_h50mBfinWw6Y-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-39" value="协议栈&lt;div&gt;规定了工作顺序&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-41" target="_9MsPmf_h50mBfinWw6Y-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-41" target="_9MsPmf_h50mBfinWw6Y-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-41" target="_9MsPmf_h50mBfinWw6Y-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-41" value="TCP协议" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-43" value="TCP数据" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="850" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-44" value="源端口号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-43">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-45" value="目标端口号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-43">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-47" value="数据包序号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-43">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-48" value="状态位" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-43">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-46" value="窗口大小" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_9MsPmf_h50mBfinWw6Y-43">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-51" target="_9MsPmf_h50mBfinWw6Y-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-51" value="与服务器建立连接" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-53" value="三次握手" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-55" target="_9MsPmf_h50mBfinWw6Y-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-55" value="IP 模块将数据封装成网络包" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-57" target="_9MsPmf_h50mBfinWw6Y-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-57" value="加上Mac头部" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-59" target="_9MsPmf_h50mBfinWw6Y-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-59" value="网卡将数据转换为&lt;div&gt;电信号&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-61" target="_9MsPmf_h50mBfinWw6Y-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-61" value="交换机" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-63" value="网线/无限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9MsPmf_h50mBfinWw6Y-64" target="_9MsPmf_h50mBfinWw6Y-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-64" value="路由器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9MsPmf_h50mBfinWw6Y-66" value="服务器层层解析&lt;div&gt;数据包&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
